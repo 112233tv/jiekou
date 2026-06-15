@@ -22,7 +22,7 @@
 {"url": "clan://localhost/tvbox/cache/19.html","name": "🌟19小屋线路19🌟"},
 {"url": "clan://localhost/tvbox/cache/20.html","name": "🌟20南风线路20🌟"},
 {"url": "clan://localhost/tvbox/cache/21.html","name": "🌟21杰歌学习21🌟"},
-{"url": "clan://localhost/TVBoxOSC/tvbox/api.json","name": "🌟潇洒本地包专用🌟"},
+{"url": "https:/jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer","name": "🌟少儿频道🌟"},
 {"url": "clan://localhost/tvbox/cache/888.html","name": "🌟本地包专用🌟"}
 
 ]
