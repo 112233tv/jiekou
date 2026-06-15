@@ -10,7 +10,7 @@
     {"url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json", "name": "凯弟"},
     {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风星辰"},
     {"url": "http://7337.kstore.space/qxys/禁止传播.json", "name": "天微七星"},
-    {"url": "http://tvbox.王二小放牛娃.top", "name": "🌟2光歌云盘2🌟"},
+    {"url": "https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg2", "name": "裤佬线路"},
     {"url": "clan://localhost/tvbox/cache/3.html", "name": "🌟3盒子迷线路3🌟"},
     {"url": "clan://localhost/tvbox/cache/4.html", "name": "🌟4肥猫线路4🌟"},
     {"url": "clan://localhost/tvbox/cache/888.html", "name": "🌟5收集网络线路5🌟"},
