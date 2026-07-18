@@ -3,7 +3,7 @@
     {"url": "https://biougeib.v.nxog.top/apitv.php", "name": "欧歌线路"},
     {"url": "http://www.饭太硬.cc/tv", "name": "饭太硬线路"},
     {"url": "http://tvbox.王二小放牛娃.top", "name": "王二小"},
-    {"url": "https://xn--ihqu10cn4c.xn--v4q818bf34b.top/", "name": "摸鱼儿"},
+    {"url": "https://我不是.摸鱼儿.top", "name": "摸鱼儿"},
     {"url": "http://宝盒接口.top", "name": "宝盒接口"},
     {"url": "http://7337.kstore.space/qxys/禁止传播.json", "name": "天微七星"},
     {"url": "https://tv.菜妮丝.top", "name": "菜妮丝"},
