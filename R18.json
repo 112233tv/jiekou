@@ -292,7 +292,7 @@
       "key": "b8b48f6e-9e96-5619-96ba-d884ef9cb442",
       "name": "奥斯卡",
       "type": 1,
-      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "api": "https://aosikazy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
