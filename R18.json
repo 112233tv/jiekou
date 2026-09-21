@@ -11,7 +11,7 @@
     },
     {
       "key": "如意资源",
-      "name": "如意资源",
+      "name": "如意资源2",
       "type": 0,
       "api": "http://ryzy.tv/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "奶香香资源",
-      "name": "奶香香资源",
+      "name": "奶香香资源2",
       "type": 0,
       "api": "https://naixxzy2.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -29,7 +29,7 @@
     },
     {
       "key": "奥斯卡源",
-      "name": "奥斯卡资源",
+      "name": "奥斯卡源2",
       "type": 0,
       "api": "https://aosikazy1.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "茅台资源",
-      "name": "茅台资源",
+      "name": "茅台资源2",
       "type": 0,
       "api": "https://caiji.maotai999.vip/api.php/provide/vod/from/mtm3u8/at/xml/",
       "searchable": 1,
@@ -47,9 +47,18 @@
     },
     {
       "key": "极品资源",
-      "name": "极品资源",
+      "name": "极品资源2",
       "type": 0,
       "api": "https://jipinvip1.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "光速资源",
+      "name": "光速资源2",
+      "type": 0,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -73,8 +82,8 @@
       "filterable": 1
     },
     {
-      "key": "乐播",
-      "name": "乐播",
+      "key": "乐播2",
+      "name": "乐播2",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
