@@ -10,10 +10,19 @@
       "filterable": 1
     },
     {
-      "key": "探探资源",
-      "name": "探探资源",
+      "key": "如意资源",
+      "name": "如意香资源",
       "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "奶香香资源",
+      "name": "奶香香资源",
+      "type": 0,
+      "api": "https://naixxzy.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
