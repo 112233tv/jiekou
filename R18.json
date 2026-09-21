@@ -18,11 +18,11 @@
       "quickSearch": 1,
       "filterable": 1
     },
- {
-      "key": "奥斯卡备",
-      "name": "奥斯卡备",
+    {
+      "key": "奥斯卡源",
+      "name": "奥斯卡资源",
       "type": 0,
-      "api": "https://aosikazy6.com/api.php/provide/vod/at/xml",
+      "api": "https://aosikazy1.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
