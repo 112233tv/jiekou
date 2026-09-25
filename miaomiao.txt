@@ -2,9 +2,10 @@
   "urls": [
     {"url": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/888.html", "name": "欧歌别点公告会闪退"},
     {"url": "http://www.饭太硬.cc/tv", "name": "饭太硬线路"},
-    {"url": "http://tvbox.王二小放牛娃.top", "name": "王二小"},
     {"url": "https://我不是.摸鱼儿.cc", "name": "摸鱼儿"},
 {"url": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/moyu.json", "name": "摸鱼本地"},
+{"url": "http://肥猫.net/", "name": "肥猫"},
+{"url": "http://tvbox.王二小放牛娃.top", "name": "王二小"},
     {"url": "http://宝盒接口.top", "name": "宝盒接口"},
     {"url": "http://7337.kstore.space/qxys/禁止传播.json", "name": "天微七星"},
     {"url": "https://tv.菜妮丝.top", "name": "菜妮丝"},
