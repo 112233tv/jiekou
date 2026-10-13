@@ -18,7 +18,7 @@
     {"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg", "name": "裤佬线路"},
     {"url": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/moyu.json", "name": "摸鱼本地"},
     {"url": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/888.html", "name": "讴歌本地"},
-    {"url": "clan://localhost/tvbox/cache/888.html", "name": "🌟5收集网络线路5🌟"},
+    {"url": "http://192.168.0.110/tvbox_local_config.json", "name": "🌟5收集网络线路5🌟"},
     {"url": "clan://localhost/tvbox/cache/888.html", "name": "🌟6收集网络线路6🌟"},
     {"url": "clan://localhost/tvbox/cache/888.html", "name": "🌟7收集网络线路🌟"},
     {"url": "clan://localhost/tvbox/cache/8.html", "name": "🌟8王二线路8🌟"},
