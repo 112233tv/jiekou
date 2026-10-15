@@ -1,6 +1,7 @@
 {
   "urls": [
-    {"url": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/888.html", "name": "欧歌别点公告会闪退"},
+{"url": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/jh.json", "name": "聚合"},
+{"url": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/888.html", "name": "欧歌别点公告会闪退"},
     {"url": "http://www.饭太硬.cc/tv", "name": "饭太硬线路"},
     {"url": "https://我不是.摸鱼儿.cc", "name": "摸鱼儿"},
 {"url": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/moyu.json", "name": "摸鱼本地"},
