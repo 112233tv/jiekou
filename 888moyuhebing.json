@@ -1,6 +1,6 @@
 {
-    "spider": "./jar/1.jar;md5;e521e2cc4db0d7de7c8c001d51a0bfd3",
-    "logo": "./img/10.gif",
+    "spider": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/jar/1.jar;md5;e521e2cc4db0d7de7c8c001d51a0bfd3",
+    "logo": "https://gh-proxy.com/https://github.com/112233tv/jiekou/blob/main/img/10.gif",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
     "warningText": "如果失效等候更新或者在线更新本地包防失效提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
